@@ -1,5 +1,7 @@
 
 [![](https://raw.githubusercontent.com/murao24/murao24/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=murao24&layout=compact)
 <!--
 **murao24/murao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
