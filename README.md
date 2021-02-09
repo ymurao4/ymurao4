@@ -1,6 +1,11 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=murao24)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=murao24&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=murao24&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murao24" />
+</a>
 <!--
 **murao24/murao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
