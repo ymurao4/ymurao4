@@ -1,5 +1,4 @@
-
-[![](https://raw.githubusercontent.com/murao24/murao24/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=murao24)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=murao24&layout=compact)
 <!--
